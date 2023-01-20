@@ -7,3 +7,5 @@ On the README, add your name and mention one thing about yourself.
 Merge your branch into the main branch.  
   
 Simon: Hello hello.
+
+Hao Xu:  hello, my name is Hao Xu, I am currently in beaconfire. Nice to meet you.
